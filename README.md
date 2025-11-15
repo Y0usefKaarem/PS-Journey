@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💻 Problem Solving Hub
 
 Welcome to my **Problem Solving Hub** — a growing collection of programming challenges, training sheets, and contest problems.
@@ -40,3 +41,7 @@ Each problem lives in its own folder for clarity and maintainability.
 - Folder names reflect **source and problem ID**  
 - README stays general; updates happen inside folders  
 - This repo is **meant to grow** — the more problems I solve, the bigger it gets
+=======
+# PS-Journey
+Documenting my journey through competitive programming: solving training sheets, contests, and challenges while mastering problem solving in C++.
+>>>>>>> 2b1f33ac342c6a907f5560574a0e6c481fbab6cd
