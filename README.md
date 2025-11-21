@@ -22,7 +22,6 @@ Source/Sheet_or_Contest/ProblemID/solution.cpp
 
 - `AssiutSheets/` → Beginner-friendly training sheets  
 - `Codeforces/` → Contests and virtual participation  
-- `LeetCode/` → Practice problems by topic  
 - `OtherPlatforms/` → Future sources  
 
 Each problem lives in its own folder for clarity and maintainability.
