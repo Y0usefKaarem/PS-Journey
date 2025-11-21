@@ -1,0 +1,1 @@
+    int thousands = x / 1000;
